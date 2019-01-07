@@ -1,0 +1,14 @@
+body {
+  background-color: teal;
+}
+.col-md-3 {
+  border-style: solid;
+  border-radius: 15px;
+  text-align: center;
+  background-color: white;
+}
+
+button {
+  width: inherit;
+  height: 200px;
+}
